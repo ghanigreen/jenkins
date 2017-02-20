@@ -1,0 +1,1 @@
+C:\Anaconda2\python.exe C:\Jenkins\run_squish.py -t ControlPanel_Auto_Test -b ControlPanel_Windows_SES-432+v3.4 -a ControlPanel -p win
